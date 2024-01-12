@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+
+
 table{
+	border-spacing : 4px;
 	background-color : yellow
 }
